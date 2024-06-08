@@ -1,0 +1,7 @@
+12345678901,John Doe,john.doe@example.com,IT
+98765432109,Jane Smith,jane@example.com,Finance
+12345678901,John Doe,john.doe@example.com,IT
+98765432109,Jane Smith,jane@example.com,Finance
+123,João,chuan$huan,finanças
+ 456,  juao,	joadia@,	corno
+069,Guilherme,	huan$maiscnia,construção
