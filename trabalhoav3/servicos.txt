@@ -1,0 +1,4 @@
+4,Massagem,30.0
+101,Massagem,30.0
+50,Hidromassagem,50.0
+56,Correr,84.0

@@ -1,0 +1,5 @@
+096,Gui,carlos#gui,Caixa
+096746238,Jo�o Guilherme,jo�o@guilherme,Operador de Caixa
+Huan,Jo�o,huana@gmail,Operador
+096,Gui,carlos#gui,Caixa
+09654,Carlos,craloshua@gmail.com,Operador de Maquinas

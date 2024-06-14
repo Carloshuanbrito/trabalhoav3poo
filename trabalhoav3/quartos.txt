@@ -1,0 +1,7 @@
+867,Categoria{codigo=564, descricao='LUXO', valor=90.0},
+457,Categoria{codigo=647, descricao='Simples', valor=46.0},
+867,Categoria{codigo=456, descricao='Luxo', valor=500.0},DISPONIVEL
+42,65,ocupado
+6,8,DISPONIVEL
+41,78,DISPONIVEL
+45,26,OCUPADO
